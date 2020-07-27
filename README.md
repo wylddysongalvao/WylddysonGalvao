@@ -5,7 +5,7 @@ I currently work as a freelancer and study systems analysis and development.
 
 ReactJs :rocket::heavy_check_mark:
 <br>
-JavaScritp :rocket::heavy_check_mark:
+JavaScript :rocket::heavy_check_mark:
 <br>
 Freelancer :computer::heavy_check_mark:
 <br>
