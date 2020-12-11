@@ -1,6 +1,6 @@
 :grin::grin::grin:
 
-My name's <a href="https://www.linkedin.com/in/jos%C3%A9-wylddyson-galv%C3%A3o-3b6365132/">Wylddyson Galvão</a>, I've been a front-end developer since 2014 and since then I've been more in love with development.
+My name's <a href="https://www.linkedin.com/in/jos%C3%A9-wylddyson-galv%C3%A3o-3b6365132/">Wylddyson Galvão</a>, I've been a FullStack developer since 2014 and since then I've been more in love with development.
 I currently work as a freelancer and study systems analysis and development.
 
 ReactJs :rocket::heavy_check_mark:
