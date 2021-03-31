@@ -7,11 +7,12 @@ ReactJs :rocket::heavy_check_mark:
 <br>
 JavaScript :rocket::heavy_check_mark:
 <br>
+Nodejs :rocket::heavy_check_mark:
+<br>
 Freelancer :computer::heavy_check_mark:
 <br>
 Análise e Desenvolvimento de Sistemas :mortar_board::heavy_check_mark:
 <br>
-Nodejs :rocket::heavy_check_mark:
 <!--
 **wylddysongalvao/wylddysongalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
