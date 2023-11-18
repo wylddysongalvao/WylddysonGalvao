@@ -5,7 +5,7 @@
 
 - 🔰  Sou de Recife/PE, Brasil
 - ⚡ CTO na Somar Tecnologias
-- 🏦 Atualmente trabalho como desenvolvedor back-end na Weedo.it em Piedade-PE.
+- 🏦 Desenvolvedor back-end na Weedo.it em Piedade-PE.
 
 ##
 
