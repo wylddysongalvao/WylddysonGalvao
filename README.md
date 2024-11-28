@@ -4,7 +4,6 @@
 ### O meu nome é Wylddyson Galvão, Seja bem-vindo ao meu perfil GitHub. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Recife/PE, Brasil
-- ⚡ CTO e Sócio na Somar Tecnologias
 - 🏦 Desenvolvedor back-end na Weedo.it em Piedade-PE.
 
 ##
